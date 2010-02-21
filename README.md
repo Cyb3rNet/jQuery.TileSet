@@ -45,5 +45,6 @@ Set the image ULRs/paths/sources in Javascript and call the plugin
 
 	</script>
 
+## Tested
 
-*~::~ Cyb3r ~::~*
+**~::~ Cyb3r ~::~**
